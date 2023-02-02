@@ -19,3 +19,19 @@ body {
         background-color: lightcoral;
     }
 }
+
+img {
+    border: 5px solid rgb(0, 0, 0);
+  }
+
+.container {
+    width: 1080px; margin-left: auto; margin-right: auto;
+}
+
+.row {
+    display:flex;
+}
+
+.column {
+    width: 50%
+}
