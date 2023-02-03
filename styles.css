@@ -38,7 +38,7 @@ img {
     width: 50%
 }
 
-#Recipe_Link {
-    border: 5px solid rgb(66, 64, 66);
-    border-radius: 10px;
+#secondbox {
+    border: 2px solid rgb(66, 64, 66);
+    border-radius: 5px;
   }
